@@ -1,7 +1,7 @@
 import React from 'react';
 
 const User = (props) => {
-	const data = 'Praharsh';
+	const data = 'Child';
 
 	return (
 		<div>

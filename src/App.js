@@ -3,6 +3,7 @@ import User from './User';
 
 function App() {
 	function parentAlert(data) {
+		// alert('Parent');
 		alert(data);
 	}
 
