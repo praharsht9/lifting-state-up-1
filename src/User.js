@@ -6,7 +6,7 @@ const User = (props) => {
 	return (
 		<div>
 			<h2>User </h2>
-			<button onClick={() => props.alert(data)}>Click me </button>
+			<button onClick={() => props.alertBox(data)}>Click me </button>
 		</div>
 	);
 };

@@ -12,7 +12,7 @@ function App() {
 			<header className='App-header'>
 				<h1>Lifting State Up</h1>
 
-				<User alert={parentAlert} />
+				<User alertBox={parentAlert} />
 			</header>
 		</div>
 	);
